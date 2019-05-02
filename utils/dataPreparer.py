@@ -126,7 +126,7 @@ def unionDataSeriePosNeg_stocksExchangeSerie(timestampStocks, midPricesStocks, d
     
     x, y = [], []
     
-    midPriceAnterior = midPricesStocks[0]
+    midPriceAnterior = 0
     i = 0
     for d in dataPosNeg:
         timeFloor = math.floor(float(d['timestamp']) / intervalSeg)

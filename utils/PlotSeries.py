@@ -1,6 +1,7 @@
 import json
 import os
 import datetime
+import pandas as pd
 from pandas import Series
 import matplotlib.pyplot as plt
 import numpy as np
@@ -26,14 +27,29 @@ def generatexTicks(interval, nlocs, labels):
 
 def plotSeriePositivesNegatives(filePath):
     x, ratePos, rateNeg, mps = loadJson(filePath)
-
+    
+    def moving_average(signal, period):
+        buffer = [np.nan] * period
+        for i in range(period,len(signal)):
+            buffer.append(signal[i-period:i].mean())
+        return buffer
+    
+    #def moving_average(a, n=3) :
+    #    ret = np.cumsum(a, dtype=float)
+    #    ret[n:] = ret[n:] - ret[:-n]
+    #    return ret[n - 1:] / n
+    
+    media_movel = moving_average(signal=np.asarray(ratePos), period=10)
+    
     plt.figure(figsize=(20, 15))
-    plt.plot(x, ratePos, color='blue')
-    plt.plot(mps, color='green')
+    l1, = plt.plot(x, ratePos, color='burlywood', label='positives news rate')
+    l2, = plt.plot(mps, color='green', label='DJI average')
+    l3, = plt.plot(media_movel, color='midnightblue', label='positive news rate (moving average)')
+    plt.legend(handles=[l1, l2, l3])
     plt.title('Positives news rate')
     plt.xlabel("Date and time")
 
-    locs, labels = generatexTicks(interval=2 , nlocs=len(ratePos), labels=x)
+    locs, labels = generatexTicks(interval=10 , nlocs=len(ratePos), labels=x)
     
     plt.xticks(locs, labels, rotation='90')
     plt.grid(axis='x')
