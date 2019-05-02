@@ -11,7 +11,7 @@ import tensorflow as tf # This code has been tested with TensorFlow 1.6
 from sklearn.preprocessing import MinMaxScaler
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, LSTM
-from sklearn.metrics import mean_squared_error
+from keras import metrics
 import math
 
 PATH_IN= '/home/matheusgomes/TCC/stocks-time-serie/utils/dataSeriePosNeg.json'
@@ -69,9 +69,9 @@ model.add(Dropout(0.2))
 
 model.add(Dense(units = 1))  
 model.summary()
-model.compile(optimizer = 'adam', loss = 'mean_squared_error')  
+model.compile(optimizer = 'adam', loss = 'mean_squared_error', metrics=[metrics.MAE, metrics.MSE])  
 
-epochs = 200
+epochs = 10
 batch_size = 32
 
 model.fit(features_set_train, labels, epochs = epochs, batch_size = batch_size)
@@ -80,12 +80,19 @@ model.fit(features_set_train, labels, epochs = epochs, batch_size = batch_size)
 trainPredictions = model.predict(features_set_train, batch_size=batch_size)
 
 feature1_testSet = [] 
+labels_test = []
 for i in range(look_back, testLength):  
     feature1_testSet.append(mpsTest[i-look_back:i])
+    labels_test.append(mpsTest[i])
 
-features_set_test = np.array(feature1_testSet)
+features_set_test, labels_test = np.array(feature1_testSet), np.array(labels_test)
 
 features_set_test = np.reshape(features_set_test, (features_set_test.shape[0], features_set_test.shape[1], 1))
+
+evalResults = model.evaluate(x=features_set_test, y=labels_test)
+
+print('\n\n#test results')
+print('#mse = %.4f   - mae = %.4f'%(evalResults[2], evalResults[1]))
 
 #predição com o conjunto de teste
 testPredictions = model.predict(features_set_test, batch_size=batch_size)
