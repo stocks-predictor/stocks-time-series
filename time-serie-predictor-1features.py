@@ -8,7 +8,6 @@ import urllib.request, json
 import os
 import numpy as np
 import tensorflow as tf # This code has been tested with TensorFlow 1.6
-from sklearn.preprocessing import MinMaxScaler
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, LSTM
 from keras import metrics
@@ -71,7 +70,7 @@ model.add(Dense(units = 1))
 model.summary()
 model.compile(optimizer = 'adam', loss = 'mean_squared_error', metrics=[metrics.MAE, metrics.MSE])  
 
-epochs = 10
+epochs = 1000
 batch_size = 32
 
 model.fit(features_set_train, labels, epochs = epochs, batch_size = batch_size)
@@ -97,10 +96,15 @@ print('#mse = %.4f   - mae = %.4f'%(evalResults[2], evalResults[1]))
 #predição com o conjunto de teste
 testPredictions = model.predict(features_set_test, batch_size=batch_size)
 
-# shift test predictions for plotting
-emptyNan = np.empty_like(np.zeros(trainLength))
+# shift train prediction for plotting (só para compensar o look_back)
+emptyNan = np.empty_like(np.zeros(look_back))
 emptyNan[:] = np.nan
-testPredictPlot = np.concatenate((np.reshape(emptyNan, (trainLength, 1)), testPredictions))
+trainPredictPlot = np.concatenate((np.reshape(emptyNan, (look_back, 1)), trainPredictions))
+
+# shift test predictions for plotting
+emptyNan = np.empty_like(np.zeros(trainLength + look_back))
+emptyNan[:] = np.nan
+testPredictPlot = np.concatenate((np.reshape(emptyNan, (trainLength + look_back, 1)), testPredictions))
 
 
 def generatexTicks(interval, nlocs, labels):
@@ -115,9 +119,9 @@ locs, labels = generatexTicks(interval=10 , nlocs=len(posRateTrain) + len(posRat
 
 plt.figure(figsize=(10,6))  
 plt.plot(np.concatenate((mpsTrain, mpsTest)), color='blue', label='average stock prices') 
-plt.plot(trainPredictions , color='red', label='predicted stock prices') 
+plt.plot(trainPredictPlot , color='red', label='predicted stock prices') 
 plt.plot(testPredictPlot , color='green', label='predicted stock prices test')
-plt.title('Down jones index predictions')  
+plt.title('Down jones index predictions (1 feature)')  
 plt.xlabel('Date')  
 plt.ylabel('Down jones index')
 plt.xticks(locs, labels, rotation='90')

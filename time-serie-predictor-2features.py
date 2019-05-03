@@ -8,9 +8,8 @@ import urllib.request, json
 import os
 import numpy as np
 import tensorflow as tf # This code has been tested with TensorFlow 1.6
-from sklearn.preprocessing import MinMaxScaler
 from keras.models import Sequential
-from keras.layers import Dense, Dropout, LSTM
+from keras.layers import Dense, Dropout, LSTM, Conv2D, Reshape
 from keras import metrics
 from sklearn.metrics import mean_squared_error
 import math
@@ -63,11 +62,14 @@ features1_set, features2_set, labels = np.array(features1_set), np.array(feature
 features_set_train = np.array([features1_set, features2_set])
 features_set_train = np.reshape(features_set_train, (features_set_train.shape[1], features_set_train.shape[2], features_set_train.shape[0]))
 
-print(features_set_train.shape)
+print('features_set_train shape = ', features_set_train.shape)
 
 model = Sequential()
 
-model.add(LSTM(units=50, return_sequences=True, input_shape=(features_set_train.shape[1], features_set_train.shape[2])))  
+model.add(Conv2D(1, kernel_size=(1, 2), activation='relu', input_shape=(features_set_train.shape[1], features_set_train.shape[2], 1)))
+model.add(Reshape((features_set_train.shape[1], 1)))
+print(model.summary())
+model.add(LSTM(units=50, return_sequences=True))  
 model.add(Dropout(0.2))  
 
 model.add(LSTM(units=50, return_sequences=True))  
@@ -84,9 +86,10 @@ model.add(Dense(units = 1))
 model.summary()
 model.compile(optimizer = 'adam', loss = 'mean_squared_error', metrics=[metrics.MAE, metrics.MSE])  
 
-epochs = 500
+epochs = 1000
 batch_size = 32
 
+features_set_train = np.expand_dims(features_set_train, axis=3)
 model.fit(features_set_train, labels, epochs = epochs, batch_size = batch_size)
 
 #predição com o conjunto de treino
@@ -106,6 +109,7 @@ feature1_testSet, feature2_testSet, labels_test = np.array(feature1_testSet), np
 features_set_test = np.array([feature1_testSet, feature2_testSet])
 features_set_test = np.reshape(features_set_test, (features_set_test.shape[1], features_set_test.shape[2], features_set_test.shape[0]))
 
+features_set_test = np.expand_dims(features_set_test, axis=3)
 evalResults = model.evaluate(x=features_set_test, y=labels_test)
 
 print('\n\n#test results')
@@ -114,10 +118,15 @@ print('#mse = %.4f   - mae = %.4f'%(evalResults[2], evalResults[1]))
 #predição com o conjunto de teste
 testPredictions = model.predict(features_set_test, batch_size=batch_size)
 
-# shift test predictions for plotting
-emptyNan = np.empty_like(np.zeros(trainLength))
+# shift train prediction for plotting (só para compensar o look_back)
+emptyNan = np.empty_like(np.zeros(look_back))
 emptyNan[:] = np.nan
-testPredictPlot = np.concatenate((np.reshape(emptyNan, (trainLength, 1)), testPredictions))
+trainPredictPlot = np.concatenate((np.reshape(emptyNan, (look_back, 1)), trainPredictions))
+
+# shift test predictions for plotting
+emptyNan = np.empty_like(np.zeros(trainLength + look_back))
+emptyNan[:] = np.nan
+testPredictPlot = np.concatenate((np.reshape(emptyNan, (trainLength + look_back, 1)), testPredictions))
 
 def generatexTicks(interval, nlocs, labels):
     locs, nlabels = [], []
@@ -132,9 +141,9 @@ locs, labels = generatexTicks(interval=10 , nlocs=len(posRateTrain) + len(posRat
 plt.figure(figsize=(10,6))
 plt.plot(np.concatenate((mpsTrain, mpsTest)), color='blue', label='average stock prices') 
 plt.plot(np.concatenate((posRateTrain, posRateTest)), color='burlywood', label='positive news rate')
-plt.plot(trainPredictions , color='red', label='predicted stock prices train')  
+plt.plot(trainPredictPlot , color='red', label='predicted stock prices train')  
 plt.plot(testPredictPlot , color='green', label='predicted stock prices test')
-plt.title('Down jones index predictions')  
+plt.title('Down jones index predictions (2 features)')  
 plt.xlabel('Date')  
 plt.ylabel('Down jones index')  
 plt.xticks(locs, labels, rotation='90')
