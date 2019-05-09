@@ -15,7 +15,7 @@ from sklearn.metrics import mean_squared_error
 import math
 import datetime
 
-PATH_IN= '/home/matheusgomes/TCC/stocks-time-serie/utils/dataSeriePosNeg.json'
+PATH_IN= '/home/matheusgomes/TCC/stocks-time-serie/utils/timeSerie_daily.json'
 
 df = pd.read_json(PATH_IN, orient='colums')
 
@@ -47,7 +47,7 @@ posRateTest = moving_average(posRateTest.values, 10)
 mpsTest = mpsTest.values
 
 #preparando conjunto de treino
-
+convNet = False
 look_back = 50
 
 features1_set = [] 
@@ -66,10 +66,13 @@ print('features_set_train shape = ', features_set_train.shape)
 
 model = Sequential()
 
-model.add(Conv2D(1, kernel_size=(1, 2), activation='relu', input_shape=(features_set_train.shape[1], features_set_train.shape[2], 1)))
-model.add(Reshape((features_set_train.shape[1], 1)))
-print(model.summary())
-model.add(LSTM(units=50, return_sequences=True))  
+if (convNet == True):
+    model.add(Conv2D(1, kernel_size=(1, 2), activation='relu', input_shape=(features_set_train.shape[1], features_set_train.shape[2], 1)))
+    model.add(Reshape((features_set_train.shape[1], 1)))
+    model.add(LSTM(units=50, return_sequences=True))  
+else:
+    model.add(LSTM(units=50, return_sequences=True, input_shape=(features_set_train.shape[1], features_set_train.shape[2])))
+
 model.add(Dropout(0.2))  
 
 model.add(LSTM(units=50, return_sequences=True))  
@@ -86,10 +89,12 @@ model.add(Dense(units = 1))
 model.summary()
 model.compile(optimizer = 'adam', loss = 'mean_squared_error', metrics=[metrics.MAE, metrics.MSE])  
 
-epochs = 1000
+epochs = 200
 batch_size = 32
 
-features_set_train = np.expand_dims(features_set_train, axis=3)
+if (convNet == True):
+    features_set_train = np.expand_dims(features_set_train, axis=3)
+
 model.fit(features_set_train, labels, epochs = epochs, batch_size = batch_size)
 
 #predição com o conjunto de treino
@@ -109,7 +114,9 @@ feature1_testSet, feature2_testSet, labels_test = np.array(feature1_testSet), np
 features_set_test = np.array([feature1_testSet, feature2_testSet])
 features_set_test = np.reshape(features_set_test, (features_set_test.shape[1], features_set_test.shape[2], features_set_test.shape[0]))
 
-features_set_test = np.expand_dims(features_set_test, axis=3)
+if (convNet == True):
+    features_set_test = np.expand_dims(features_set_test, axis=3)
+
 evalResults = model.evaluate(x=features_set_test, y=labels_test)
 
 print('\n\n#test results')
@@ -136,7 +143,7 @@ def generatexTicks(interval, nlocs, labels):
         nlabels.append(ts.strftime('%Y.%m.%d  %H:%Mh'))
     return locs, nlabels
 
-locs, labels = generatexTicks(interval=10 , nlocs=len(posRateTrain) + len(posRateTest), labels=timestamps)
+locs, labels = generatexTicks(interval=100 , nlocs=len(posRateTrain) + len(posRateTest), labels=timestamps)
 
 plt.figure(figsize=(10,6))
 plt.plot(np.concatenate((mpsTrain, mpsTest)), color='blue', label='average stock prices') 

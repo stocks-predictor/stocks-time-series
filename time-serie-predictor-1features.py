@@ -13,7 +13,9 @@ from keras.layers import Dense, Dropout, LSTM
 from keras import metrics
 import math
 
-PATH_IN= '/home/matheusgomes/TCC/stocks-time-serie/utils/dataSeriePosNeg.json'
+PATH_IN= '/home/matheusgomes/TCC/stocks-time-serie/utils/timeSerie_daily.json'
+
+look_back = 50
 
 df = pd.read_json(PATH_IN, orient='colums')
 
@@ -37,8 +39,6 @@ posRateTrain = posRateTrain.values
 mpsTrain = mpsTrain.values
 posRateTest = posRateTest.values
 mpsTest = mpsTest.values
-
-look_back = 50
 
 features_set_train = [] 
 labels = []  
@@ -70,7 +70,7 @@ model.add(Dense(units = 1))
 model.summary()
 model.compile(optimizer = 'adam', loss = 'mean_squared_error', metrics=[metrics.MAE, metrics.MSE])  
 
-epochs = 1000
+epochs = 1
 batch_size = 32
 
 model.fit(features_set_train, labels, epochs = epochs, batch_size = batch_size)
@@ -93,6 +93,7 @@ evalResults = model.evaluate(x=features_set_test, y=labels_test)
 print('\n\n#test results')
 print('#mse = %.4f   - mae = %.4f'%(evalResults[2], evalResults[1]))
 
+model.reset_states()
 #predição com o conjunto de teste
 testPredictions = model.predict(features_set_test, batch_size=batch_size)
 
@@ -115,7 +116,7 @@ def generatexTicks(interval, nlocs, labels):
         nlabels.append(ts.strftime('%Y.%m.%d  %H:%Mh'))
     return locs, nlabels
 
-locs, labels = generatexTicks(interval=10 , nlocs=len(posRateTrain) + len(posRateTest), labels=timestamps)
+locs, labels = generatexTicks(interval=100 , nlocs=len(posRateTrain) + len(posRateTest), labels=timestamps)
 
 plt.figure(figsize=(10,6))  
 plt.plot(np.concatenate((mpsTrain, mpsTest)), color='blue', label='average stock prices') 

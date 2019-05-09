@@ -41,9 +41,9 @@ def plotSeriePositivesNegatives(filePath):
     
     media_movel = moving_average(signal=np.asarray(ratePos), period=10)
     
-    plt.figure(figsize=(20, 15))
+    plt.figure(figsize=(10, 6))
     l1, = plt.plot(x, ratePos, color='burlywood', label='positives news rate')
-    l2, = plt.plot(mps, color='green', label='DJI average')
+    l2, = plt.plot(mps, color='green', label='stocks average')
     l3, = plt.plot(media_movel, color='midnightblue', label='positive news rate (moving average)')
     plt.legend(handles=[l1, l2, l3])
     plt.title('Positives news rate')
@@ -54,9 +54,9 @@ def plotSeriePositivesNegatives(filePath):
     plt.xticks(locs, labels, rotation='90')
     plt.grid(axis='x')
     plt.ylabel("rate")
-    #plt.show()
     plt.savefig("positivesNegativesNewsRates.eps", format='eps')
-    plt.clf()
+    plt.show()
+    #plt.clf()
 
 if __name__ == "__main__":
     names = ["negativeQtdSerie_window", "positiveQtdSerie_window"]
