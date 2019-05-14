@@ -117,13 +117,13 @@ features_set_test = np.reshape(features_set_test, (features_set_test.shape[1], f
 if (convNet == True):
     features_set_test = np.expand_dims(features_set_test, axis=3)
 
+#predição com o conjunto de teste
+testPredictions = model.predict(features_set_test, batch_size=batch_size)
+
 evalResults = model.evaluate(x=features_set_test, y=labels_test)
 
 print('\n\n#test results')
 print('#mse = %.4f   - mae = %.4f'%(evalResults[2], evalResults[1]))
-
-#predição com o conjunto de teste
-testPredictions = model.predict(features_set_test, batch_size=batch_size)
 
 # shift train prediction for plotting (só para compensar o look_back)
 emptyNan = np.empty_like(np.zeros(look_back))

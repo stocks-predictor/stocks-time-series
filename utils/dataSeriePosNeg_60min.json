@@ -1,0 +1,4546 @@
+[
+    {
+        "timestamp": "1554440665.63",
+        "pos(qtd)": 14,
+        "pos(rate)": 0.7,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.3,
+        "midPriceStocks": 0
+    },
+    {
+        "timestamp": "1554444537.91",
+        "pos(qtd)": 17,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0
+    },
+    {
+        "timestamp": "1554447763.07",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.5454545454545454,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.45454545454545453,
+        "midPriceStocks": 0
+    },
+    {
+        "timestamp": "1554451643.31",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.8571428571428571,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.14285714285714285,
+        "midPriceStocks": 0
+    },
+    {
+        "timestamp": "1554454870.41",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0
+    },
+    {
+        "timestamp": "1554458746.4",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.5833333333333334,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.4166666666666667,
+        "midPriceStocks": 0
+    },
+    {
+        "timestamp": "1554462614.43",
+        "pos(qtd)": 11,
+        "pos(rate)": 0.6875,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.3125,
+        "midPriceStocks": 0
+    },
+    {
+        "timestamp": "1554465834.26",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0
+    },
+    {
+        "timestamp": "1554469702.54",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.5714285714285714,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.42857142857142855,
+        "midPriceStocks": 0
+    },
+    {
+        "timestamp": "1554472934.15",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.5217391304347826,
+        "neg(qtd)": 11,
+        "neg(rate)": 0.4782608695652174,
+        "midPriceStocks": 0
+    },
+    {
+        "timestamp": "1554476822.43",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0
+    },
+    {
+        "timestamp": "1554480045.48",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0
+    },
+    {
+        "timestamp": "1554483932.59",
+        "pos(qtd)": 15,
+        "pos(rate)": 0.7894736842105263,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.21052631578947367,
+        "midPriceStocks": 0
+    },
+    {
+        "timestamp": "1554487810.98",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.5591888773167071
+    },
+    {
+        "timestamp": "1554491048.4",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.7,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.3,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554494926.07",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.7777777777777778,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.2222222222222222,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554498158.03",
+        "pos(qtd)": 13,
+        "pos(rate)": 0.7647058823529411,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.23529411764705882,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554502031.61",
+        "pos(qtd)": 8,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554505272.1",
+        "pos(qtd)": 8,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554509147.23",
+        "pos(qtd)": 16,
+        "pos(rate)": 0.8,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.2,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554513025.13",
+        "pos(qtd)": 13,
+        "pos(rate)": 0.8666666666666667,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.13333333333333333,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554516257.84",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.5454545454545454,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.45454545454545453,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554520131.24",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.1111111111111111,
+        "neg(qtd)": 16,
+        "neg(rate)": 0.8888888888888888,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554523361.15",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.4,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.6,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554527236.53",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.13333333333333333,
+        "neg(qtd)": 13,
+        "neg(rate)": 0.8666666666666667,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554530468.84",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554534347.64",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554538223.32",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.45454545454545453,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.5454545454545454,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554541452.47",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.18181818181818182,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.8181818181818182,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554545327.68",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.5384615384615384,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.46153846153846156,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554548551.54",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.2,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.8,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554552418.68",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.25,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.75,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554555643.31",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.7142857142857143,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.2857142857142857,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554559517.24",
+        "pos(qtd)": 8,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554563383.3",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.8888888888888888,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.1111111111111111,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554566613.34",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554570491.88",
+        "pos(qtd)": 10,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554573724.36",
+        "pos(qtd)": 5,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554577602.91",
+        "pos(qtd)": 5,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554580839.18",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.8,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.2,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554584710.79",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.6363636363636364,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.36363636363636365,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554588593.94",
+        "pos(qtd)": 16,
+        "pos(rate)": 0.8,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.2,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554591822.98",
+        "pos(qtd)": 7,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554595702.15",
+        "pos(qtd)": 8,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554598932.79",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.7,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.3,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554602804.78",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.8,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.2,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554606033.51",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.8,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.2,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554609909.73",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.7142857142857143,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.2857142857142857,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554613783.2",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554617009.49",
+        "pos(qtd)": 3,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554620880.03",
+        "pos(qtd)": 1,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554624106.47",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554627974.54",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554632490.82",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554635072.11",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554638942.74",
+        "pos(qtd)": 5,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554642171.24",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.7692307692307693,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.23076923076923078,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554646014.03",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554649239.63",
+        "pos(qtd)": 5,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554653116.29",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554656994.44",
+        "pos(qtd)": 3,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554660224.43",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554664102.67",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.8333333333333334,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.16666666666666666,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554667330.09",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.7142857142857143,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.2857142857142857,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554671203.79",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554674431.35",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.7142857142857143,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.2857142857142857,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554678319.28",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.6363636363636364,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.36363636363636365,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554682196.47",
+        "pos(qtd)": 11,
+        "pos(rate)": 0.8461538461538461,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.15384615384615385,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554685430.31",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.625,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.375,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554689314.18",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554692543.71",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554696414.94",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.42857142857142855,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.5714285714285714,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554699642.14",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.6428571428571429,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.35714285714285715,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554703512.63",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.4,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.6,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554707414.94",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554710676.36",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.7777777777777778,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.2222222222222222,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554714555.43",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.2222222222222222,
+        "neg(qtd)": 14,
+        "neg(rate)": 0.7777777777777778,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554717781.68",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.4166666666666667,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.5833333333333334,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554721654.39",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554724880.8",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.42857142857142855,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.5714285714285714,
+        "midPriceStocks": 0.5665108498859155
+    },
+    {
+        "timestamp": "1554728757.93",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.38461538461538464,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.6153846153846154,
+        "midPriceStocks": 0.3331919782036792
+    },
+    {
+        "timestamp": "1554732625.66",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.4444444444444444,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.5555555555555556,
+        "midPriceStocks": 0.38003579795056197
+    },
+    {
+        "timestamp": "1554735863.57",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.3674552772367221
+    },
+    {
+        "timestamp": "1554739761.73",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.46153846153846156,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.5384615384615384,
+        "midPriceStocks": 0.3526486063388319
+    },
+    {
+        "timestamp": "1554743005.37",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.3822920729982968
+    },
+    {
+        "timestamp": "1554750895.49",
+        "pos(qtd)": 0,
+        "pos(rate)": 0.0,
+        "neg(qtd)": 1,
+        "neg(rate)": 1.0,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554754130.61",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.4,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.6,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554757354.14",
+        "pos(qtd)": 14,
+        "pos(rate)": 0.7777777777777778,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.2222222222222222,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554761230.72",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554764458.43",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554768338.78",
+        "pos(qtd)": 11,
+        "pos(rate)": 0.6875,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.3125,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554772234.21",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.8571428571428571,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.14285714285714285,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554775466.41",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.625,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.375,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554779342.5",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.46153846153846156,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.5384615384615384,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554782577.54",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.8333333333333334,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.16666666666666666,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554787088.89",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554790311.93",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554794179.33",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554798047.82",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554800625.13",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.2222222222222222,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.7777777777777778,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554805137.33",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.5454545454545454,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.45454545454545453,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554807712.78",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.2,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.8,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554811579.65",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.4375,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.5625,
+        "midPriceStocks": 0.4004797663477788
+    },
+    {
+        "timestamp": "1554814816.31",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.14654759192053035
+    },
+    {
+        "timestamp": "1554818693.68",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.4666666666666667,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.5333333333333333,
+        "midPriceStocks": 0.12884103813198777
+    },
+    {
+        "timestamp": "1554822567.7",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.21428571428571427,
+        "neg(qtd)": 11,
+        "neg(rate)": 0.7857142857142857,
+        "midPriceStocks": 0.1668525224852857
+    },
+    {
+        "timestamp": "1554825800.83",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.35294117647058826,
+        "neg(qtd)": 11,
+        "neg(rate)": 0.6470588235294118,
+        "midPriceStocks": 0.16034855583033902
+    },
+    {
+        "timestamp": "1554829677.23",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.5454545454545454,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.45454545454545453,
+        "midPriceStocks": 0.11127352217589248
+    },
+    {
+        "timestamp": "1554832969.05",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.09159237368906759
+    },
+    {
+        "timestamp": "1554836843.46",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.42857142857142855,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.5714285714285714,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554840074.86",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.5833333333333334,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.4166666666666667,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554843947.06",
+        "pos(qtd)": 17,
+        "pos(rate)": 0.7391304347826086,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.2608695652173913,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554847818.18",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.5833333333333334,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.4166666666666667,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554851042.63",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.5555555555555556,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.4444444444444444,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554854922.06",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.7692307692307693,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.23076923076923078,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554858150.92",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554862025.59",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.5384615384615384,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.46153846153846156,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554865251.11",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.375,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.625,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554869121.22",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.09090909090909091,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.9090909090909091,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554872990.26",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.4,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.6,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554876860.22",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554880090.53",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.5833333333333334,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.4166666666666667,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554883323.08",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554887193.41",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.36363636363636365,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.6363636363636364,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554890420.51",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.2857142857142857,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.7142857142857143,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554894296.6",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554898129.48",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.5714285714285714,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.42857142857142855,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554956840.81",
+        "pos(qtd)": 4,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554959465.35",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554962695.84",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.4444444444444444,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.5555555555555556,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554966572.29",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.4,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.6,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554969800.71",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.3076923076923077,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.6923076923076923,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554973670.9",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.07142857142857142,
+        "neg(qtd)": 13,
+        "neg(rate)": 0.9285714285714286,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554976896.46",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.30434782608695654,
+        "neg(qtd)": 16,
+        "neg(rate)": 0.6956521739130435,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554980767.57",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.2857142857142857,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.7142857142857143,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554984631.59",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.6428571428571429,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.35714285714285715,
+        "midPriceStocks": 0.08405738142840846
+    },
+    {
+        "timestamp": "1554987855.87",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.36363636363636365,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.6363636363636364,
+        "midPriceStocks": 0.17208927087101955
+    },
+    {
+        "timestamp": "1554991726.52",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.5263157894736842,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.47368421052631576,
+        "midPriceStocks": 0.17985539207167278
+    },
+    {
+        "timestamp": "1554994952.18",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.05555555555555555,
+        "neg(qtd)": 17,
+        "neg(rate)": 0.9444444444444444,
+        "midPriceStocks": 0.07469369836772444
+    },
+    {
+        "timestamp": "1554998825.84",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.35,
+        "neg(qtd)": 13,
+        "neg(rate)": 0.65,
+        "midPriceStocks": 0.043658909299701065
+    },
+    {
+        "timestamp": "1555002054.74",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.16666666666666666,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.8333333333333334,
+        "midPriceStocks": 0.0017417492418374536
+    },
+    {
+        "timestamp": "1555005914.27",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.4166666666666667,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.5833333333333334,
+        "midPriceStocks": 0.0
+    },
+    {
+        "timestamp": "1555009789.44",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.5555555555555556,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.4444444444444444,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555013019.78",
+        "pos(qtd)": 11,
+        "pos(rate)": 0.5238095238095238,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.47619047619047616,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555016897.11",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555020122.86",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.16666666666666666,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.8333333333333334,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555023995.76",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.5555555555555556,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.4444444444444444,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555027229.45",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.2,
+        "neg(qtd)": 16,
+        "neg(rate)": 0.8,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555031105.03",
+        "pos(qtd)": 21,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555034982.79",
+        "pos(qtd)": 22,
+        "pos(rate)": 0.9166666666666666,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.08333333333333333,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555038215.63",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.9090909090909091,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.09090909090909091,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555042095.78",
+        "pos(qtd)": 18,
+        "pos(rate)": 0.782608695652174,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.21739130434782608,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555045326.03",
+        "pos(qtd)": 17,
+        "pos(rate)": 0.9444444444444444,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.05555555555555555,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555049200.89",
+        "pos(qtd)": 24,
+        "pos(rate)": 0.9230769230769231,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.07692307692307693,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555052428.43",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555056311.47",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.5294117647058824,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.47058823529411764,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555060187.84",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.7142857142857143,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.2857142857142857,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555063411.3",
+        "pos(qtd)": 19,
+        "pos(rate)": 0.9047619047619048,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.09523809523809523,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555067291.42",
+        "pos(qtd)": 18,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555070518.18",
+        "pos(qtd)": 16,
+        "pos(rate)": 0.8888888888888888,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.1111111111111111,
+        "midPriceStocks": 0.06878982586370341
+    },
+    {
+        "timestamp": "1555075029.16",
+        "pos(qtd)": 17,
+        "pos(rate)": 0.85,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.15,
+        "midPriceStocks": 0.525244077910969
+    },
+    {
+        "timestamp": "1555077609.18",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.7692307692307693,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.23076923076923078,
+        "midPriceStocks": 0.43735972305724147
+    },
+    {
+        "timestamp": "1555081488.66",
+        "pos(qtd)": 29,
+        "pos(rate)": 0.90625,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.09375,
+        "midPriceStocks": 0.450242007363002
+    },
+    {
+        "timestamp": "1555085324.32",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.5068702283524757
+    },
+    {
+        "timestamp": "1555088601.77",
+        "pos(qtd)": 16,
+        "pos(rate)": 0.6956521739130435,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.30434782608695654,
+        "midPriceStocks": 0.5224228114737102
+    },
+    {
+        "timestamp": "1555092483.44",
+        "pos(qtd)": 27,
+        "pos(rate)": 0.8709677419354839,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.12903225806451613,
+        "midPriceStocks": 0.4950507252067453
+    },
+    {
+        "timestamp": "1555095723.72",
+        "pos(qtd)": 14,
+        "pos(rate)": 0.7777777777777778,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.2222222222222222,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555099602.83",
+        "pos(qtd)": 14,
+        "pos(rate)": 0.9333333333333333,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.06666666666666667,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555102829.17",
+        "pos(qtd)": 19,
+        "pos(rate)": 0.9047619047619048,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.09523809523809523,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555106716.57",
+        "pos(qtd)": 13,
+        "pos(rate)": 0.8125,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.1875,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555110596.39",
+        "pos(qtd)": 26,
+        "pos(rate)": 0.896551724137931,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.10344827586206896,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555113832.9",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.9090909090909091,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.09090909090909091,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555117714.86",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.9090909090909091,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.09090909090909091,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555120947.58",
+        "pos(qtd)": 19,
+        "pos(rate)": 0.9047619047619048,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.09523809523809523,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555124831.53",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.8571428571428571,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.14285714285714285,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555128066.23",
+        "pos(qtd)": 5,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555131947.7",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.8571428571428571,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.14285714285714285,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555135828.15",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.2,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.8,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555139057.13",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.8,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.2,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555142937.82",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555146172.16",
+        "pos(qtd)": 0,
+        "pos(rate)": 0.0,
+        "neg(qtd)": 1,
+        "neg(rate)": 1.0,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555153281.41",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.5454545454545454,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.45454545454545453,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555157156.7",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555161034.05",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.6923076923076923,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.3076923076923077,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555164264.21",
+        "pos(qtd)": 15,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555168144.99",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.9230769230769231,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.07692307692307693,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555171375.81",
+        "pos(qtd)": 13,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555175255.98",
+        "pos(qtd)": 21,
+        "pos(rate)": 0.9545454545454546,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.045454545454545456,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555178490.6",
+        "pos(qtd)": 12,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555182372.37",
+        "pos(qtd)": 21,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555185609.88",
+        "pos(qtd)": 18,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555189488.1",
+        "pos(qtd)": 19,
+        "pos(rate)": 0.95,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.05,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555193372.23",
+        "pos(qtd)": 19,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555196610.37",
+        "pos(qtd)": 14,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555200490.64",
+        "pos(qtd)": 13,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555203729.51",
+        "pos(qtd)": 14,
+        "pos(rate)": 0.9333333333333333,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.06666666666666667,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555207617.24",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.5333333333333333,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.4666666666666667,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555210843.85",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555214722.94",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.2,
+        "neg(qtd)": 16,
+        "neg(rate)": 0.8,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555218604.22",
+        "pos(qtd)": 11,
+        "pos(rate)": 0.5238095238095238,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.47619047619047616,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555221835.27",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.125,
+        "neg(qtd)": 14,
+        "neg(rate)": 0.875,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555225715.82",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.45454545454545453,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.5454545454545454,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555228950.06",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 14,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555232832.84",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555236071.28",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.47058823529411764,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.5294117647058824,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555239949.88",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.375,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.625,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555243303.78",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.5833333333333334,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.4166666666666667,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555247293.96",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.8,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.2,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555250520.17",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.625,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.375,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555254397.17",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.7,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.3,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555257627.04",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.8571428571428571,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.14285714285714285,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555261504.8",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555265387.18",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.7272727272727273,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.2727272727272727,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555268575.44",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.8,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.2,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555272499.14",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555275734.48",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.8571428571428571,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.14285714285714285,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555279615.01",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.6153846153846154,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.38461538461538464,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555282858.27",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555286741.25",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.7142857142857143,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.2857142857142857,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555290621.18",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.5555555555555556,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.4444444444444444,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555294507.6",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.5384615384615384,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.46153846153846156,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555297736.75",
+        "pos(qtd)": 5,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555300966.33",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.9090909090909091,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.09090909090909091,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555304851.38",
+        "pos(qtd)": 10,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555308081.52",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.5454545454545454,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.45454545454545453,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555311957.25",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.6153846153846154,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.38461538461538464,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555315839.39",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.375,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.625,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555319073.28",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.7272727272727273,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.2727272727272727,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555322951.5",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.8,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.2,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555326184.14",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555330055.42",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.38095238095238093,
+        "neg(qtd)": 13,
+        "neg(rate)": 0.6190476190476191,
+        "midPriceStocks": 0.5283351807341603
+    },
+    {
+        "timestamp": "1555333288.17",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.8,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.2,
+        "midPriceStocks": 0.5039082933921435
+    },
+    {
+        "timestamp": "1555337168.89",
+        "pos(qtd)": 13,
+        "pos(rate)": 0.5652173913043478,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.43478260869565216,
+        "midPriceStocks": 0.4469715285707707
+    },
+    {
+        "timestamp": "1555340406.16",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.4666666666666667,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.5333333333333333,
+        "midPriceStocks": 0.42396119642913277
+    },
+    {
+        "timestamp": "1555344292.98",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.25,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.75,
+        "midPriceStocks": 0.4598806763589707
+    },
+    {
+        "timestamp": "1555348174.58",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.5555555555555556,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.4444444444444444,
+        "midPriceStocks": 0.5051788588684474
+    },
+    {
+        "timestamp": "1555351411.25",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.2,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.8,
+        "midPriceStocks": 0.49915431525798226
+    },
+    {
+        "timestamp": "1555355256.62",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.5714285714285714,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.42857142857142855,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555358496.43",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.5714285714285714,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.42857142857142855,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555362377.3",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.4,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.6,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555365613.08",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.625,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.375,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555369493.24",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555373371.18",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.6153846153846154,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.38461538461538464,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555376601.46",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.6153846153846154,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.38461538461538464,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555380483.03",
+        "pos(qtd)": 11,
+        "pos(rate)": 0.8461538461538461,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.15384615384615385,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555383712.78",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555387587.67",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.4666666666666667,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.5333333333333333,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555390815.89",
+        "pos(qtd)": 13,
+        "pos(rate)": 0.7222222222222222,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.2777777777777778,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555394693.41",
+        "pos(qtd)": 19,
+        "pos(rate)": 0.9047619047619048,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.09523809523809523,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555398605.32",
+        "pos(qtd)": 14,
+        "pos(rate)": 0.6086956521739131,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.391304347826087,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555401847.05",
+        "pos(qtd)": 8,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555405746.54",
+        "pos(qtd)": 25,
+        "pos(rate)": 0.8064516129032258,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.1935483870967742,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555408991.94",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555412861.26",
+        "pos(qtd)": 17,
+        "pos(rate)": 0.7727272727272727,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.22727272727272727,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555416089.58",
+        "pos(qtd)": 14,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.49319843230552607
+    },
+    {
+        "timestamp": "1555419959.9",
+        "pos(qtd)": 14,
+        "pos(rate)": 0.875,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.125,
+        "midPriceStocks": 0.6687558388379813
+    },
+    {
+        "timestamp": "1555423834.09",
+        "pos(qtd)": 14,
+        "pos(rate)": 0.7368421052631579,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.2631578947368421,
+        "midPriceStocks": 0.5702690768274081
+    },
+    {
+        "timestamp": "1555427062.24",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.631578947368421,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.3684210526315789,
+        "midPriceStocks": 0.5854947493907403
+    },
+    {
+        "timestamp": "1555430937.13",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.5745335044700184
+    },
+    {
+        "timestamp": "1555434165.61",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.5838570210457803
+    },
+    {
+        "timestamp": "1555438044.72",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.8181818181818182,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.18181818181818182,
+        "midPriceStocks": 0.6391627519363325
+    },
+    {
+        "timestamp": "1555441279.52",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.7142857142857143,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.2857142857142857,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555445158.11",
+        "pos(qtd)": 17,
+        "pos(rate)": 0.7727272727272727,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.22727272727272727,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555449037.11",
+        "pos(qtd)": 21,
+        "pos(rate)": 0.7,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.3,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555452272.34",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555456153.8",
+        "pos(qtd)": 15,
+        "pos(rate)": 0.7894736842105263,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.21052631578947367,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555459383.95",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555463262.61",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.625,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.375,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555466499.41",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.7272727272727273,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.2727272727272727,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555470372.88",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555473605.67",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.5714285714285714,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.42857142857142855,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555477482.82",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.8333333333333334,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.16666666666666666,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555481367.16",
+        "pos(qtd)": 21,
+        "pos(rate)": 0.875,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.125,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555484594.89",
+        "pos(qtd)": 18,
+        "pos(rate)": 0.9,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.1,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555488480.38",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555491716.53",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555495584.45",
+        "pos(qtd)": 15,
+        "pos(rate)": 0.6818181818181818,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.3181818181818182,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555498819.36",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.5384615384615384,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.46153846153846156,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555502687.69",
+        "pos(qtd)": 13,
+        "pos(rate)": 0.7222222222222222,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.2777777777777778,
+        "midPriceStocks": 0.5857948822920278
+    },
+    {
+        "timestamp": "1555506556.36",
+        "pos(qtd)": 11,
+        "pos(rate)": 0.6111111111111112,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.3888888888888889,
+        "midPriceStocks": 0.6129238240038504
+    },
+    {
+        "timestamp": "1555509788.98",
+        "pos(qtd)": 15,
+        "pos(rate)": 0.7142857142857143,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.2857142857142857,
+        "midPriceStocks": 0.6045742588618381
+    },
+    {
+        "timestamp": "1555513666.12",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.5625,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.4375,
+        "midPriceStocks": 0.5783621944117954
+    },
+    {
+        "timestamp": "1555516898.38",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.5555555555555556,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.4444444444444444,
+        "midPriceStocks": 0.6241348220680436
+    },
+    {
+        "timestamp": "1555520779.29",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.6021621241204471
+    },
+    {
+        "timestamp": "1555524006.38",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.6176106863448112
+    },
+    {
+        "timestamp": "1555527892.36",
+        "pos(qtd)": 15,
+        "pos(rate)": 0.5555555555555556,
+        "neg(qtd)": 12,
+        "neg(rate)": 0.4444444444444444,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555531730.51",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.4666666666666667,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.5333333333333333,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555534956.36",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.4117647058823529,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.5882352941176471,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555538796.98",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555542067.21",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.4,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.6,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555545939.67",
+        "pos(qtd)": 14,
+        "pos(rate)": 0.7368421052631579,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.2631578947368421,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555549824.09",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.7142857142857143,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.2857142857142857,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555553056.97",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.46153846153846156,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.5384615384615384,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555556931.46",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.8571428571428571,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.14285714285714285,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555560160.63",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.4,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.6,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555564682.67",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555567268.94",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.8,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.2,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555571145.9",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.6363636363636364,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.36363636363636365,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555575034.75",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.6363636363636364,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.36363636363636365,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555578267.07",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.2222222222222222,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.7777777777777778,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555582141.75",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.5454545454545454,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.45454545454545453,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555585376.98",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.45454545454545453,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.5454545454545454,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555589253.94",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.46153846153846156,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.5384615384615384,
+        "midPriceStocks": 0.648043664745451
+    },
+    {
+        "timestamp": "1555592483.87",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.6923076923076923,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.3076923076923077,
+        "midPriceStocks": 0.731321576053908
+    },
+    {
+        "timestamp": "1555596356.87",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.4375,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.5625,
+        "midPriceStocks": 0.6868195138739566
+    },
+    {
+        "timestamp": "1555600230.56",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.8181818181818182,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.18181818181818182,
+        "midPriceStocks": 0.7616606610047327
+    },
+    {
+        "timestamp": "1555603457.85",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.5454545454545454,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.45454545454545453,
+        "midPriceStocks": 0.7984383133337687
+    },
+    {
+        "timestamp": "1555607341.32",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.8248029760962226
+    },
+    {
+        "timestamp": "1555610576.36",
+        "pos(qtd)": 11,
+        "pos(rate)": 0.7333333333333333,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.26666666666666666,
+        "midPriceStocks": 0.856670790597434
+    },
+    {
+        "timestamp": "1555614454.44",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555617685.97",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.8181818181818182,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.18181818181818182,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555621562.09",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555624800.21",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555628678.25",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.8333333333333334,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.16666666666666666,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555632566.99",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555636442.22",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.4444444444444444,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.5555555555555556,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555639675.7",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555642920.84",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555646795.95",
+        "pos(qtd)": 1,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555650029.7",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.25,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.75,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555655193.35",
+        "pos(qtd)": 1,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555657781.12",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555662301.89",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555664885.99",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555668123.61",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555671994.3",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.7142857142857143,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.2857142857142857,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555675226.51",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555679102.11",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555682976.25",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555686867.24",
+        "pos(qtd)": 4,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555690103.47",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.125,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.875,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555693336.67",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555697862.8",
+        "pos(qtd)": 6,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555700458.61",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555704338.56",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.4,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.6,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555708222.74",
+        "pos(qtd)": 18,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555711460.48",
+        "pos(qtd)": 12,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555715349.72",
+        "pos(qtd)": 20,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555718584.93",
+        "pos(qtd)": 16,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555722472.93",
+        "pos(qtd)": 15,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555725708.57",
+        "pos(qtd)": 13,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555729594.51",
+        "pos(qtd)": 14,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555732832.44",
+        "pos(qtd)": 13,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555736716.44",
+        "pos(qtd)": 15,
+        "pos(rate)": 0.8823529411764706,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.11764705882352941,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555740600.27",
+        "pos(qtd)": 15,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555743832.15",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.875,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.125,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555748363.76",
+        "pos(qtd)": 8,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555750947.2",
+        "pos(qtd)": 1,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555754818.12",
+        "pos(qtd)": 2,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555758698.06",
+        "pos(qtd)": 0,
+        "pos(rate)": 0.0,
+        "neg(qtd)": 4,
+        "neg(rate)": 1.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555766447.49",
+        "pos(qtd)": 1,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555769034.13",
+        "pos(qtd)": 2,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555778718.47",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555780007.14",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555783891.72",
+        "pos(qtd)": 3,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555791640.85",
+        "pos(qtd)": 3,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555801969.73",
+        "pos(qtd)": 1,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555819426.75",
+        "pos(qtd)": 0,
+        "pos(rate)": 0.0,
+        "neg(qtd)": 1,
+        "neg(rate)": 1.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555823305.19",
+        "pos(qtd)": 27,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555826539.04",
+        "pos(qtd)": 12,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555830421.27",
+        "pos(qtd)": 17,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555833654.61",
+        "pos(qtd)": 12,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555837543.97",
+        "pos(qtd)": 18,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555841429.72",
+        "pos(qtd)": 16,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555844664.66",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.8181818181818182,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.18181818181818182,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555848543.1",
+        "pos(qtd)": 18,
+        "pos(rate)": 0.9473684210526315,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.05263157894736842,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555851776.36",
+        "pos(qtd)": 12,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555855655.24",
+        "pos(qtd)": 14,
+        "pos(rate)": 0.9333333333333333,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.06666666666666667,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555858888.48",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.4,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.6,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555862769.2",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.5294117647058824,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.47058823529411764,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555866638.16",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.47058823529411764,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.5294117647058824,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555869871.97",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.38461538461538464,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.6153846153846154,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555873750.07",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.2,
+        "neg(qtd)": 12,
+        "neg(rate)": 0.8,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555877633.52",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.25,
+        "neg(qtd)": 12,
+        "neg(rate)": 0.75,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555880864.32",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.25,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.75,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555884099.83",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.15384615384615385,
+        "neg(qtd)": 11,
+        "neg(rate)": 0.8461538461538461,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555887982.28",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.35714285714285715,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.6428571428571429,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555891211.67",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.23076923076923078,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.7692307692307693,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555895090.28",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.08333333333333333,
+        "neg(qtd)": 11,
+        "neg(rate)": 0.9166666666666666,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555898970.76",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.38461538461538464,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.6153846153846154,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555902204.75",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.5555555555555556,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.4444444444444444,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555906083.1",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.42857142857142855,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.5714285714285714,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555909312.84",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.5714285714285714,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.42857142857142855,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555913196.01",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.36363636363636365,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.6363636363636364,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555916429.66",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555920315.02",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.35714285714285715,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.6428571428571429,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555924211.47",
+        "pos(qtd)": 11,
+        "pos(rate)": 0.5238095238095238,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.47619047619047616,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555927448.01",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555931323.93",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555934555.01",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.8289920486666773
+    },
+    {
+        "timestamp": "1555938441.14",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.5833333333333334,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.4166666666666667,
+        "midPriceStocks": 0.6925356853041649
+    },
+    {
+        "timestamp": "1555941673.48",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.6428571428571429,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.35714285714285715,
+        "midPriceStocks": 0.732583816425425
+    },
+    {
+        "timestamp": "1555945548.34",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.5384615384615384,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.46153846153846156,
+        "midPriceStocks": 0.7684680219422333
+    },
+    {
+        "timestamp": "1555949425.34",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.744477043952692
+    },
+    {
+        "timestamp": "1555952658.96",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.46153846153846156,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.5384615384615384,
+        "midPriceStocks": 0.737698177188264
+    },
+    {
+        "timestamp": "1555956533.89",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.5833333333333334,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.4166666666666667,
+        "midPriceStocks": 0.7169976754075975
+    },
+    {
+        "timestamp": "1555959771.64",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.5833333333333334,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.4166666666666667,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1555963650.05",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.45454545454545453,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.5454545454545454,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1555966880.38",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.7692307692307693,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.23076923076923078,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1555970762.96",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.8333333333333334,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.16666666666666666,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1555974644.14",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1555977884.42",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1555981771.99",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.4,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.6,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1555985003.95",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1555988885.09",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1555992120.8",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1555996003.4",
+        "pos(qtd)": 13,
+        "pos(rate)": 0.6842105263157895,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.3157894736842105,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1555999245.33",
+        "pos(qtd)": 16,
+        "pos(rate)": 0.8,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.2,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1556003130.09",
+        "pos(qtd)": 19,
+        "pos(rate)": 0.7916666666666666,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.20833333333333334,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1556007020.79",
+        "pos(qtd)": 17,
+        "pos(rate)": 0.7391304347826086,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.2608695652173913,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1556010256.72",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.8181818181818182,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.18181818181818182,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1556014141.81",
+        "pos(qtd)": 18,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1556017370.79",
+        "pos(qtd)": 15,
+        "pos(rate)": 0.6818181818181818,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.3181818181818182,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1556021248.4",
+        "pos(qtd)": 27,
+        "pos(rate)": 0.7941176470588235,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.20588235294117646,
+        "midPriceStocks": 0.7275012970427355
+    },
+    {
+        "timestamp": "1556024478.16",
+        "pos(qtd)": 13,
+        "pos(rate)": 0.7647058823529411,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.23529411764705882,
+        "midPriceStocks": 0.788730983679784
+    },
+    {
+        "timestamp": "1556028364.91",
+        "pos(qtd)": 19,
+        "pos(rate)": 0.7037037037037037,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.2962962962962963,
+        "midPriceStocks": 0.8475552299896023
+    },
+    {
+        "timestamp": "1556032244.5",
+        "pos(qtd)": 17,
+        "pos(rate)": 0.7391304347826086,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.2608695652173913,
+        "midPriceStocks": 0.974158273974048
+    },
+    {
+        "timestamp": "1556035481.71",
+        "pos(qtd)": 11,
+        "pos(rate)": 0.6470588235294118,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.35294117647058826,
+        "midPriceStocks": 1.0
+    },
+    {
+        "timestamp": "1556039371.66",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.9684153248872107
+    },
+    {
+        "timestamp": "1556042616.74",
+        "pos(qtd)": 13,
+        "pos(rate)": 0.6842105263157895,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.3157894736842105,
+        "midPriceStocks": 0.9495504657981968
+    },
+    {
+        "timestamp": "1556046502.33",
+        "pos(qtd)": 14,
+        "pos(rate)": 0.8235294117647058,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.17647058823529413,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556049743.65",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.7692307692307693,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.23076923076923078,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556053623.85",
+        "pos(qtd)": 15,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556056860.2",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.8181818181818182,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.18181818181818182,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556060743.96",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.47058823529411764,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.5294117647058824,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556065271.22",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556068507.83",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.7777777777777778,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.2222222222222222,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556071741.84",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556075625.26",
+        "pos(qtd)": 2,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556079507.78",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.8333333333333334,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.16666666666666666,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556082094.16",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.5714285714285714,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.42857142857142855,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556085977.91",
+        "pos(qtd)": 19,
+        "pos(rate)": 0.8260869565217391,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.17391304347826086,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556089216.61",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.7142857142857143,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.2857142857142857,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556093109.32",
+        "pos(qtd)": 17,
+        "pos(rate)": 0.8947368421052632,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.10526315789473684,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556096993.34",
+        "pos(qtd)": 21,
+        "pos(rate)": 0.8076923076923077,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.19230769230769232,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556100226.95",
+        "pos(qtd)": 11,
+        "pos(rate)": 0.6470588235294118,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.35294117647058826,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556104108.04",
+        "pos(qtd)": 16,
+        "pos(rate)": 0.7272727272727273,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.2727272727272727,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556107348.55",
+        "pos(qtd)": 19,
+        "pos(rate)": 0.76,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.24,
+        "midPriceStocks": 0.9573268002717228
+    },
+    {
+        "timestamp": "1556111227.81",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.631578947368421,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.3684210526315789,
+        "midPriceStocks": 0.9367537498374645
+    },
+    {
+        "timestamp": "1556114464.88",
+        "pos(qtd)": 13,
+        "pos(rate)": 0.65,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.35,
+        "midPriceStocks": 0.981341208710802
+    },
+    {
+        "timestamp": "1556118374.95",
+        "pos(qtd)": 15,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.9580995759775206
+    },
+    {
+        "timestamp": "1556121612.19",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.4444444444444444,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.5555555555555556,
+        "midPriceStocks": 0.9063375074722089
+    },
+    {
+        "timestamp": "1556125508.9",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.45,
+        "neg(qtd)": 11,
+        "neg(rate)": 0.55,
+        "midPriceStocks": 0.894880103471607
+    },
+    {
+        "timestamp": "1556128904.94",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.47619047619047616,
+        "neg(qtd)": 11,
+        "neg(rate)": 0.5238095238095238,
+        "midPriceStocks": 0.920061228141769
+    },
+    {
+        "timestamp": "1556132836.15",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.45454545454545453,
+        "neg(qtd)": 12,
+        "neg(rate)": 0.5454545454545454,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556136072.26",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.23076923076923078,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.7692307692307693,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556139967.31",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.41379310344827586,
+        "neg(qtd)": 17,
+        "neg(rate)": 0.5862068965517241,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556143209.87",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.5294117647058824,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.47058823529411764,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556147115.45",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.5625,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.4375,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556151007.74",
+        "pos(qtd)": 11,
+        "pos(rate)": 0.55,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.45,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556154248.96",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556158786.2",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.8333333333333334,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.16666666666666666,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556161376.66",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.8,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.2,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556165255.25",
+        "pos(qtd)": 6,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556168494.79",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.2857142857142857,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.7142857142857143,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556172380.36",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.5555555555555556,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.4444444444444444,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556175608.02",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556179500.47",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556183381.35",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.45454545454545453,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.5454545454545454,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556186616.29",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.25,
+        "neg(qtd)": 12,
+        "neg(rate)": 0.75,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556190401.56",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.1875,
+        "neg(qtd)": 13,
+        "neg(rate)": 0.8125,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556194077.42",
+        "pos(qtd)": 22,
+        "pos(rate)": 0.7333333333333333,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.26666666666666666,
+        "midPriceStocks": 0.9059855357741284
+    },
+    {
+        "timestamp": "1556197766.84",
+        "pos(qtd)": 11,
+        "pos(rate)": 0.39285714285714285,
+        "neg(qtd)": 17,
+        "neg(rate)": 0.6071428571428571,
+        "midPriceStocks": 0.5017643643460659
+    },
+    {
+        "timestamp": "1556200833.91",
+        "pos(qtd)": 15,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.49838153955217734
+    },
+    {
+        "timestamp": "1556204513.47",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.4444444444444444,
+        "neg(qtd)": 15,
+        "neg(rate)": 0.5555555555555556,
+        "midPriceStocks": 0.653709542243682
+    },
+    {
+        "timestamp": "1556208191.28",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.5263157894736842,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.47368421052631576,
+        "midPriceStocks": 0.6719558546299282
+    },
+    {
+        "timestamp": "1556211878.78",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.30434782608695654,
+        "neg(qtd)": 16,
+        "neg(rate)": 0.6956521739130435,
+        "midPriceStocks": 0.7204827187560738
+    },
+    {
+        "timestamp": "1556215564.46",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.4666666666666667,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.5333333333333333,
+        "midPriceStocks": 0.7103294381283831
+    },
+    {
+        "timestamp": "1556219246.98",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.3076923076923077,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.6923076923076923,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556222931.4",
+        "pos(qtd)": 11,
+        "pos(rate)": 0.6470588235294118,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.35294117647058826,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556226005.8",
+        "pos(qtd)": 13,
+        "pos(rate)": 0.6190476190476191,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.38095238095238093,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556229699.0",
+        "pos(qtd)": 13,
+        "pos(rate)": 0.65,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.35,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556233396.3",
+        "pos(qtd)": 11,
+        "pos(rate)": 0.6875,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.3125,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556237077.27",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556240759.52",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.5555555555555556,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.4444444444444444,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556245673.16",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.4,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.6,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556248123.48",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556251803.93",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.5555555555555556,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.4444444444444444,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556254871.55",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.5714285714285714,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.42857142857142855,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556259169.32",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556262850.0",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556265920.5",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556269605.31",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.2,
+        "neg(qtd)": 12,
+        "neg(rate)": 0.8,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556273286.34",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.8333333333333334,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.16666666666666666,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556276962.33",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.5454545454545454,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.45454545454545453,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556280029.24",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.5833333333333334,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.4166666666666667,
+        "midPriceStocks": 0.6834820051143637
+    },
+    {
+        "timestamp": "1556283712.97",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.5830155846819807
+    },
+    {
+        "timestamp": "1556287395.32",
+        "pos(qtd)": 14,
+        "pos(rate)": 0.5833333333333334,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.4166666666666667,
+        "midPriceStocks": 0.6403981288254172
+    },
+    {
+        "timestamp": "1556291084.21",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.4444444444444444,
+        "neg(qtd)": 10,
+        "neg(rate)": 0.5555555555555556,
+        "midPriceStocks": 0.6817067838017437
+    },
+    {
+        "timestamp": "1556294762.96",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.45454545454545453,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.5454545454545454,
+        "midPriceStocks": 0.6709350422971099
+    },
+    {
+        "timestamp": "1556298460.01",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.47058823529411764,
+        "neg(qtd)": 9,
+        "neg(rate)": 0.5294117647058824,
+        "midPriceStocks": 0.6567821925150383
+    },
+    {
+        "timestamp": "1556302146.18",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.5454545454545454,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.45454545454545453,
+        "midPriceStocks": 0.68046977622204
+    },
+    {
+        "timestamp": "1556305211.53",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.2857142857142857,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.7142857142857143,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556308895.74",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.6363636363636364,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.36363636363636365,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556312589.75",
+        "pos(qtd)": 12,
+        "pos(rate)": 0.7058823529411765,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.29411764705882354,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556316265.3",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.8333333333333334,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.16666666666666666,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556319965.53",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556324280.59",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556327964.85",
+        "pos(qtd)": 2,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556331057.64",
+        "pos(qtd)": 2,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556335355.06",
+        "pos(qtd)": 0,
+        "pos(rate)": 0.0,
+        "neg(qtd)": 1,
+        "neg(rate)": 1.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556337811.83",
+        "pos(qtd)": 0,
+        "pos(rate)": 0.0,
+        "neg(qtd)": 1,
+        "neg(rate)": 1.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556341490.27",
+        "pos(qtd)": 1,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556350078.74",
+        "pos(qtd)": 3,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556355598.76",
+        "pos(qtd)": 0,
+        "pos(rate)": 0.0,
+        "neg(qtd)": 2,
+        "neg(rate)": 1.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556356212.77",
+        "pos(qtd)": 0,
+        "pos(rate)": 0.0,
+        "neg(qtd)": 1,
+        "neg(rate)": 1.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556359284.6",
+        "pos(qtd)": 1,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556362955.04",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556366636.99",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556370318.36",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556374612.49",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.8333333333333334,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.16666666666666666,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556377676.03",
+        "pos(qtd)": 9,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556381372.99",
+        "pos(qtd)": 9,
+        "pos(rate)": 0.9,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.1,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556384442.9",
+        "pos(qtd)": 17,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556388123.89",
+        "pos(qtd)": 17,
+        "pos(rate)": 0.9444444444444444,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.05555555555555555,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556391809.25",
+        "pos(qtd)": 17,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556395486.21",
+        "pos(qtd)": 17,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556399167.5",
+        "pos(qtd)": 16,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556402855.09",
+        "pos(qtd)": 13,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556406546.93",
+        "pos(qtd)": 18,
+        "pos(rate)": 0.9473684210526315,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.05263157894736842,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556409622.06",
+        "pos(qtd)": 8,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556413318.13",
+        "pos(qtd)": 12,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556417010.51",
+        "pos(qtd)": 4,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556421314.98",
+        "pos(qtd)": 4,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556425618.19",
+        "pos(qtd)": 1,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556428072.46",
+        "pos(qtd)": 4,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556431759.69",
+        "pos(qtd)": 11,
+        "pos(rate)": 0.9166666666666666,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.08333333333333333,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556434836.8",
+        "pos(qtd)": 13,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556438516.83",
+        "pos(qtd)": 11,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556442208.38",
+        "pos(qtd)": 14,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556445891.48",
+        "pos(qtd)": 11,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556449575.65",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.875,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.125,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556453256.99",
+        "pos(qtd)": 5,
+        "pos(rate)": 0.8333333333333334,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.16666666666666666,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556456952.9",
+        "pos(qtd)": 11,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556460019.01",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556463695.81",
+        "pos(qtd)": 6,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556467411.3",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556471096.74",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556474781.02",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.5,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.5,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556478465.11",
+        "pos(qtd)": 2,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556482149.86",
+        "pos(qtd)": 7,
+        "pos(rate)": 0.7777777777777778,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.2222222222222222,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556485229.74",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.75,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.25,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556488911.83",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556493829.67",
+        "pos(qtd)": 1,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556497507.02",
+        "pos(qtd)": 1,
+        "pos(rate)": 0.3333333333333333,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.6666666666666666,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556500574.8",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556503654.17",
+        "pos(qtd)": 2,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556508569.49",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556510407.26",
+        "pos(qtd)": 14,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556514102.67",
+        "pos(qtd)": 22,
+        "pos(rate)": 0.9166666666666666,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.08333333333333333,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556517791.07",
+        "pos(qtd)": 18,
+        "pos(rate)": 0.9,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.1,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556521464.9",
+        "pos(qtd)": 19,
+        "pos(rate)": 0.8636363636363636,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.13636363636363635,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556525146.93",
+        "pos(qtd)": 17,
+        "pos(rate)": 0.9444444444444444,
+        "neg(qtd)": 1,
+        "neg(rate)": 0.05555555555555555,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556528828.9",
+        "pos(qtd)": 17,
+        "pos(rate)": 1.0,
+        "neg(qtd)": 0,
+        "neg(rate)": 0.0,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556532524.84",
+        "pos(qtd)": 21,
+        "pos(rate)": 0.8076923076923077,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.19230769230769232,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556535602.67",
+        "pos(qtd)": 16,
+        "pos(rate)": 0.8421052631578947,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.15789473684210525,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556539288.58",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.7272727272727273,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.2727272727272727,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556542992.7",
+        "pos(qtd)": 15,
+        "pos(rate)": 0.7142857142857143,
+        "neg(qtd)": 6,
+        "neg(rate)": 0.2857142857142857,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556546667.81",
+        "pos(qtd)": 13,
+        "pos(rate)": 0.8666666666666667,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.13333333333333333,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556550357.73",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.8333333333333334,
+        "neg(qtd)": 2,
+        "neg(rate)": 0.16666666666666666,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556554075.14",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.42857142857142855,
+        "neg(qtd)": 8,
+        "neg(rate)": 0.5714285714285714,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556558373.67",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 5,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556560836.43",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556564523.48",
+        "pos(qtd)": 10,
+        "pos(rate)": 0.7692307692307693,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.23076923076923078,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556568213.8",
+        "pos(qtd)": 4,
+        "pos(rate)": 0.5714285714285714,
+        "neg(qtd)": 3,
+        "neg(rate)": 0.42857142857142855,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556571903.76",
+        "pos(qtd)": 8,
+        "pos(rate)": 0.6666666666666666,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.3333333333333333,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556575586.41",
+        "pos(qtd)": 6,
+        "pos(rate)": 0.6,
+        "neg(qtd)": 4,
+        "neg(rate)": 0.4,
+        "midPriceStocks": 0.7257176647995252
+    },
+    {
+        "timestamp": "1556579263.95",
+        "pos(qtd)": 3,
+        "pos(rate)": 0.3,
+        "neg(qtd)": 7,
+        "neg(rate)": 0.7,
+        "midPriceStocks": 0.7257176647995252
+    }
+]

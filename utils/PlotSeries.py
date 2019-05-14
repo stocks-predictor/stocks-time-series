@@ -25,7 +25,7 @@ def generatexTicks(interval, nlocs, labels):
         nlabels.append(labels[idx])
     return locs, nlabels
 
-def plotSeriePositivesNegatives(filePath):
+def plotSeriePositivesNegatives(filePath, ticksInterval = 10):
     x, ratePos, rateNeg, mps = loadJson(filePath)
     
     def moving_average(signal, period):
@@ -49,12 +49,12 @@ def plotSeriePositivesNegatives(filePath):
     plt.title('Positives news rate')
     plt.xlabel("Date and time")
 
-    locs, labels = generatexTicks(interval=10 , nlocs=len(ratePos), labels=x)
+    locs, labels = generatexTicks(interval=ticksInterval , nlocs=len(ratePos), labels=x)
     
     plt.xticks(locs, labels, rotation='90')
     plt.grid(axis='x')
     plt.ylabel("rate")
-    plt.savefig("positivesNegativesNewsRates.eps", format='eps')
+    #plt.savefig("positivesNegativesNewsRates.eps", format='eps')
     plt.show()
     #plt.clf()
 

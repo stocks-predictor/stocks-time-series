@@ -13,9 +13,9 @@ from keras.layers import Dense, Dropout, LSTM
 from keras import metrics
 import math
 
-PATH_IN= '/home/matheusgomes/TCC/stocks-time-serie/utils/timeSerie_daily.json'
+PATH_IN= '/home/matheusgomes/TCC/stocks-time-serie/utils/dataSeriePosNeg_60min.json'
 
-look_back = 50
+look_back = 3
 
 df = pd.read_json(PATH_IN, orient='colums')
 
@@ -30,14 +30,10 @@ print('train length = ', trainLength)
 timestamps = df.loc[0:, 'timestamp'].values
 
 mpsTrain = df.loc[0:trainLength, 'midPriceStocks']  # já está normalizado
-posRateTrain = df.loc[0:trainLength, 'pos(rate)']
 mpsTest = df.loc[trainLength : trainLength + testLength, 'midPriceStocks'] # já está normalizado
-posRateTest = df.loc[trainLength : trainLength + testLength, 'pos(rate)']
 
 # .values para pegar o numpy array
-posRateTrain = posRateTrain.values
 mpsTrain = mpsTrain.values
-posRateTest = posRateTest.values
 mpsTest = mpsTest.values
 
 features_set_train = [] 
@@ -70,7 +66,7 @@ model.add(Dense(units = 1))
 model.summary()
 model.compile(optimizer = 'adam', loss = 'mean_squared_error', metrics=[metrics.MAE, metrics.MSE])  
 
-epochs = 1
+epochs = 100
 batch_size = 32
 
 model.fit(features_set_train, labels, epochs = epochs, batch_size = batch_size)
@@ -88,14 +84,14 @@ features_set_test, labels_test = np.array(feature1_testSet), np.array(labels_tes
 
 features_set_test = np.reshape(features_set_test, (features_set_test.shape[0], features_set_test.shape[1], 1))
 
+model.reset_states()
+#predição com o conjunto de teste
+testPredictions = model.predict(features_set_test, batch_size=batch_size)
+
 evalResults = model.evaluate(x=features_set_test, y=labels_test)
 
 print('\n\n#test results')
 print('#mse = %.4f   - mae = %.4f'%(evalResults[2], evalResults[1]))
-
-model.reset_states()
-#predição com o conjunto de teste
-testPredictions = model.predict(features_set_test, batch_size=batch_size)
 
 # shift train prediction for plotting (só para compensar o look_back)
 emptyNan = np.empty_like(np.zeros(look_back))
@@ -116,7 +112,7 @@ def generatexTicks(interval, nlocs, labels):
         nlabels.append(ts.strftime('%Y.%m.%d  %H:%Mh'))
     return locs, nlabels
 
-locs, labels = generatexTicks(interval=100 , nlocs=len(posRateTrain) + len(posRateTest), labels=timestamps)
+locs, labels = generatexTicks(interval=10 , nlocs=len(mpsTrain) + len(mpsTest), labels=timestamps)
 
 plt.figure(figsize=(10,6))  
 plt.plot(np.concatenate((mpsTrain, mpsTest)), color='blue', label='average stock prices') 

@@ -165,4 +165,4 @@ if __name__ == '__main__':
     timestampStocks, midPricesStocks = getStocksExchangeIndex(ticker=parser.parse_args().ticker, interval=parser.parse_args().interval)
     unionDataSeriePosNeg_stocksExchangeSerie(timestampStocks.tolist(), midPricesStocks.tolist(), OUT_X_Y_SERIE, intervalMinutes)
 
-    plotSeriePositivesNegatives(OUT_X_Y_SERIE)
+    plotSeriePositivesNegatives(OUT_X_Y_SERIE, ticksInterval= 8)
